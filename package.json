@@ -1,9 +1,9 @@
 {
-  "name": "drag-tag-list",
-  "version": "1.0.0",
+  "name": "drag-tag",
+  "version": "1.0.1",
   "main": "dist/bundle.js",
   "repository": "https://github.com/lee12345111222/drag-tag-list.git",
-  "author": "guanmu_lee <guanmu.lmy@raycloud.com>",
+  "author": "hanname",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
